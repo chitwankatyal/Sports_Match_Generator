@@ -1,0 +1,160 @@
+[
+    {
+        "TeamId": 1,
+        "Name": "Static Movement",
+        "Roster": [
+            {
+                "PlayerId": 3,
+                "Name": "Anh Airaldi"
+            },
+            {
+                "PlayerId": 4,
+                "Name": "Presley Meeuwsen"
+            },
+            {
+                "PlayerId": 5,
+                "Name": "Oghenekevwe MacKenzie"
+            }
+        ]
+    },
+    {
+        "TeamId": 2,
+        "Name": "Even odds",
+        "Roster": [
+            {
+                "PlayerId": 6,
+                "Name": "Chinwendu David"
+            },
+            {
+                "PlayerId": 7,
+                "Name": "Nesim Abbatangelo"
+            },
+            {
+                "PlayerId": 8,
+                "Name": "Simcha Sherman"
+            },
+            {
+                "PlayerId": 9,
+                "Name": "Candide Szabo"
+            },
+            {
+                "PlayerId": 10,
+                "Name": "Taiwo Spalding"
+            }
+        ]
+    },
+    {
+        "TeamId": 3,
+        "Name": "Jumbo Shrimp",
+        "Roster": [
+            {
+                "PlayerId": 11,
+                "Name": "Shinobu Kovac"
+            },
+            {
+                "PlayerId": 12,
+                "Name": "Yong Cloutier"
+            },
+            {
+                "PlayerId": 13,
+                "Name": "Vijaya Benedetti"
+            },
+            {
+                "PlayerId": 14,
+                "Name": "Grey Krizman"
+            },
+            {
+                "PlayerId": 15,
+                "Name": "Limbikani Metzger"
+            }
+        ]
+    },
+    {
+        "TeamId": 4,
+        "Name": "Original Copy",
+        "Roster": [
+            {
+                "PlayerId": 16,
+                "Name": "Wangchuk Knutsen"
+            },
+            {
+                "PlayerId": 17,
+                "Name": "Temple Lopez"
+            },
+            {
+                "PlayerId": 18,
+                "Name": "Bellamy Abbink"
+            },
+            {
+                "PlayerId": 19,
+                "Name": "Teagan Erdos"
+            },
+            {
+                "PlayerId": 20,
+                "Name": "Lhamo Starosta"
+            },
+            {
+                "PlayerId": 2,
+                "Name": "September Pape"
+            }
+        ]
+    },
+    {
+        "TeamId": 5,
+        "Name": "New Team",
+        "Roster": [
+            {
+                "PlayerId": 21,
+                "Name": "New Player"
+            }
+        ]
+    },
+    {
+        "TeamId": 6,
+        "Name": "Mini Shrimp",
+        "Roster": [
+            {
+                "PlayerId": 22,
+                "Name": "Mr. shrimp"
+            }
+        ]
+    },
+    {
+        "TeamId": 7,
+        "Name": "Plus Minus",
+        "Roster": [
+            {
+                "PlayerId": 23,
+                "Name": "Amazon Kindle"
+            },
+            {
+                "PlayerId": 24,
+                "Name": "Mr.Peanut Butter"
+            },
+            {
+                "PlayerId": 1,
+                "Name": "Desta Hendry"
+            },
+            {
+                "PlayerId": 25,
+                "Name": "Fresh Man"
+            }
+        ]
+    },
+    {
+        "TeamId": 8,
+        "Name": "Fresh Oranges",
+        "Roster": [
+            {
+                "PlayerId": 26,
+                "Name": "Mr.October"
+            }
+        ]
+    },
+    {
+        "TeamId": 9,
+        "Name": "October",
+        "Roster": [
+        ]
+    }
+]
